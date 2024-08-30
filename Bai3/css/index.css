@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.section-1 .container .inner-wrap{
+    border: 1px solid black;
+   
+}
+.section-1 .container .inner-wrap{
+    background-image: url("../img/background.jpg");
+    padding: 20px 0px 80px;
+    height: 100vh;
+    
+    
+}
+.section-1 .container .inner-wrap .inner-img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+   
+
+}
